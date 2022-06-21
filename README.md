@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=billk97&exclude_repo=Machine-Lerning-Project&hide=html,vhdl)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=billk97)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **billk97/billk97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
